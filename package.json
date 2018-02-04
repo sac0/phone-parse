@@ -1,0 +1,23 @@
+{
+  "name": "phone-parse",
+  "version": "1.0.0",
+  "description": "Parses phone numbers from a string and provides options to manipulate it and extract relevant information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sac0/phone-parse.git"
+  },
+  "keywords": [
+    "phone",
+    "parse"
+  ],
+  "author": "Sachin Govind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sac0/phone-parse/issues"
+  },
+  "homepage": "https://github.com/sac0/phone-parse#readme"
+}
