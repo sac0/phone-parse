@@ -4,7 +4,7 @@
   "description": "Parses phone numbers from a string and provides options to manipulate it and extract relevant information",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/jshint/bin/jshint index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sac0/phone-parse/issues"
   },
-  "homepage": "https://github.com/sac0/phone-parse#readme"
+  "homepage": "https://github.com/sac0/phone-parse#readme",
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
 }

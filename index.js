@@ -1,3 +1,7 @@
+/*jshint esversion: 6 */
+//Created with love by Sachin Govind github.con/sac0
+//this is just a beta version intended to boost my knowledge CI etc
+
 const numberDict = {
     zero: 0,
     one: 1,
@@ -60,4 +64,4 @@ function isPhone(phone) {
 module.exports = {
     getPhone,
     isPhone
-}
+};
